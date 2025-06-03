@@ -2,7 +2,7 @@
 
 🎓 Student of **Systems Analysis and Development (ADS)**  
 💻 Focused on **Front-end Web Development**  
-✅ Completed courses in **HTML5**, **CSS3**, **Git**, and **GitHub**  
+✅ Completed courses in **HTML5**, **CSS3**, **Git** and **GitHub**  
 🚀 Currently learning **JavaScript**
 
 ---
