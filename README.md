@@ -1,6 +1,6 @@
 ### Hello! 👋 Welcome to my GitHub profile!
 
-🎓 Student of **Systems Analysis and Development **  
+🎓 Student of **Systems Analysis and Development**  
 💻 Focused on **Front-end Web Development**  
 ✅ Completed courses in **HTML5**, **CSS3**, **Git** and **GitHub**  
 🚀 Currently learning **JavaScript**
