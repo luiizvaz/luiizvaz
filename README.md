@@ -1,4 +1,6 @@
-### Hello! 👋 Welcome to my GitHub profile!
+### Hi, there! 
+
+👋 Welcome to my GitHub profile!
 
 🎓 Student of **Systems Analysis and Development**  
 💻 Focused on **Front-end Web Development**  
