@@ -42,5 +42,5 @@ To build a solid foundation in web development and become a skilled Front-end De
 
 Thanks for stopping by! 🚀 
 <br>
-<br>
-[![Luiz Vaz stats](https://github-readme-stats.vercel.app/api?username=luiizvaz)](https://github.com/anuraghazra/github-readme-stats)
+
+
